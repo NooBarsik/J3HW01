@@ -1,5 +1,3 @@
-import sun.net.www.content.text.*;
-
 import java.util.ArrayList;
 
 /**
